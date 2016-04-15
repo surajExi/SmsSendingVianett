@@ -1,0 +1,9 @@
+c:\users\suraj.s\documents\visual studio 2013\Projects\SmsSendingVianett\SmsSendingVianett\bin\Debug\SmsSendingVianett.exe.config
+c:\users\suraj.s\documents\visual studio 2013\Projects\SmsSendingVianett\SmsSendingVianett\bin\Debug\SmsSendingVianett.exe
+c:\users\suraj.s\documents\visual studio 2013\Projects\SmsSendingVianett\SmsSendingVianett\bin\Debug\SmsSendingVianett.pdb
+c:\users\suraj.s\documents\visual studio 2013\Projects\SmsSendingVianett\SmsSendingVianett\obj\Debug\SmsSendingVianett.csprojResolveAssemblyReference.cache
+c:\users\suraj.s\documents\visual studio 2013\Projects\SmsSendingVianett\SmsSendingVianett\obj\Debug\SmsSendingVianett.Form1.resources
+c:\users\suraj.s\documents\visual studio 2013\Projects\SmsSendingVianett\SmsSendingVianett\obj\Debug\SmsSendingVianett.Properties.Resources.resources
+c:\users\suraj.s\documents\visual studio 2013\Projects\SmsSendingVianett\SmsSendingVianett\obj\Debug\SmsSendingVianett.csproj.GenerateResource.Cache
+c:\users\suraj.s\documents\visual studio 2013\Projects\SmsSendingVianett\SmsSendingVianett\obj\Debug\SmsSendingVianett.exe
+c:\users\suraj.s\documents\visual studio 2013\Projects\SmsSendingVianett\SmsSendingVianett\obj\Debug\SmsSendingVianett.pdb
